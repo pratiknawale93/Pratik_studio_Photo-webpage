@@ -30,7 +30,7 @@ It is connected to the main homepage (`MiniProject.html`), where clicking on the
 * 🖼️ 6-image grid layout
 * 📐 CSS Grid-based structure
 * 🎨 Modern UI with shadows and rounded corners
-* 🔍 Hover effects on images
+* 🔍 Hover effects on images and the transform TranslateY is applied on the Hover effect
 * 🔗 Navigation back to Home Page
 
 ---
