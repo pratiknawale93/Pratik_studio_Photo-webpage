@@ -77,21 +77,19 @@ It is connected to the main homepage (`MiniProject.html`) and includes an additi
 
 ### 📌 Main Page (MiniProject.html)
 
-![Main Page](https://github.com/user-attachments/assets/471c6d3f-da78-41e7-9dd1-18f1024ae5f4)
+<img width="1920" height="1080" alt="Screenshot (351)" src="https://github.com/user-attachments/assets/9e97ffbd-64a0-470e-a39b-2b8aa3cc4286" />
+
 
 ### 📌 Gallery Page (gallery.html)
 
-![Gallery Page](https://github.com/user-attachments/assets/dcc46bd2-8407-4d3f-8958-3508d0b92ac3)
+<img width="1920" height="1080" alt="Screenshot (352)" src="https://github.com/user-attachments/assets/9a9634c8-111f-4772-8e23-a61e8dc9bf52" />
 
 
 
 
 
 
-### 📌 Exhibits Page (Bootstrap.html)
 
-
-<img width="1920" height="939" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/6be84ce1-bef3-4119-8b18-9b17e9b0a2e0" />
 
 
 ---
